@@ -7,10 +7,11 @@ Building AI applications, scalable backend systems, and full-stack products.
 
 ---
 
-## 👋 About Me
+## 👋Disclaimer
 
 <h4 align="center">
-🚀 Most of my major production projects are in private repositories due to company policies and ongoing product development.
+Most of my major personal projects are maintained in private repositories because they have grown into big-scale products. Please contact me, I'll walk demo you all. I can't keep them in public repos.
+
 </h4>
 
 📞 **Interested in my work?**  
