@@ -9,7 +9,9 @@ Building AI applications, scalable backend systems, and full-stack products.
 
 ## 👋 About Me
 
-> **Most of my major production projects are in private repositories** due to company policies and ongoing product development.
+<h4 align="center">
+🚀 Most of my major production projects are in private repositories due to company policies and ongoing product development.
+</h4>
 
 📞 **Interested in my work?**  
 Feel free to reach out at **+91 8851435787** and I'd be happy to walk you through my projects, architecture decisions, and engineering approach.
