@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Chirayu Batra</h1>
 <h3 align="center">Full-Stack Software Engineer | AI & GenAI Developer</h3>
 
@@ -12,7 +11,7 @@ Building AI applications, scalable backend systems, and full-stack products.
 
 > **Most of my major production projects are in private repositories** due to company policies and ongoing product development.
 
-📞 **Want to see my best work?**  
+📞 **Interested in my work?**  
 Feel free to reach out at **+91 8851435787** and I'd be happy to walk you through my projects, architecture decisions, and engineering approach.
 
 - 💼 Full-Stack Software Engineer
@@ -76,4 +75,3 @@ Google Play Developer Page
 <p align="center">
 <i>Building software today. Building a software company tomorrow.</i> 🚀
 </p>
-```
