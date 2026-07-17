@@ -40,17 +40,11 @@ Google Play Developer Page
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCwyVTRIOhbizdIDnnfjCnUA" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40"/>
-</a>
-
 <a href="https://leetcode.com/chirayubatra1104" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/chirayubatra1104" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/>
-</a>
+
 </p>
 
 ---
