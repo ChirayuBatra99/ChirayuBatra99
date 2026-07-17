@@ -55,23 +55,7 @@ Google Play Developer Page
 
 ---
 
-## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,fastapi,tailwind,mongodb,postgres,mysql,aws,docker,git,github,vscode,postman,java,cpp" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chirayubatra99&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirayubatra99&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
